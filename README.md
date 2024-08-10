@@ -1,14 +1,14 @@
 # MY_RESUME
 <html>
 <head>
-
+<title>Resume</title>
 <link rel="stylesheet"  href="resume.css">
 
 </head>
 <body>
 <div>
    <h1>T Gnaneswari</h2>
-contact : +91-8985898693<br>
+contact :8985898693<br>
 Email ID:<a href="tgnaneswari2004@gmail.com">tgnaneswari2004@gmail.com</a><br>
 linked In Profile:<a href="https://www.linkedin.com/in/gnaneswari-tirumala-b51a98289/">https://www.linkedin.com/in/gnaneswari-tirumala-b51a98289/</a>
 <br>
@@ -26,13 +26,18 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
 <h2 color:pink>Certifications:</h2>
 </div>
 <b>JAVA:</b>Cleared The assessment for the skill java(basic) by <i>Hacker Rank</i><br>
+                 <a   href="https://www.hackerrank.com/certificates/AC276D8177AB ">credential Link</a>
   &nbsp &nbsp &nbsp &nbsp&nbsp Java Training Has Been successfully completed at <i>Besant Technologies</i><br>
  &nbsp &nbsp &nbsp &nbsp&nbsp Learn  all the  Basics of Java by  <i>Udemy</i><br>
+  <a   href=" https://www.udemy.com/certificate/UC-413eda2e-887a-4abd-a992-aaa773b3ce77/">credential Link</a>
 <b>C:</b>Learn the basics of C programming by <i>Eduonix</i><br>
-             <b>SQL:</b>  Cleared The assessment for the skill sql(basic) by <i>Hacker Rank</i><br>
+             <b>SQL:</b>  Cleared The assessment for the skill sql(basic)<br>
+ <a   href="https://www.hackerrank.com/certificates/E2BE14414217 ">credential Link</a>
 <b>WEB DEVElOPMENT:</b><br>
-           Cleared The assessment for the skill css(basic)  by <i>Hacker Rank</i><br>
+           Cleared The assessment for the skill css(basic)<br>
+ <a   href=" https://www.hackerrank.com/certificates/1f4c61632d0c">credential Link</a>
 Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
+ <a   href=" https://coursera.org/share/4ec2a80176eb1b4be728168eda116950">credential Link</a>
     &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp                
 <div class="second">
 <h2 color:pink>Projects:</h2>
@@ -52,7 +57,7 @@ Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
 
 
 <u><h3>HTML,CSS,JAVASCRIPT/PHP,MYSQL</h3></u>
-<b>Online Address Book  </b> Online Address Book is store the information in 
+<b>Online Address Book using </b> Online Address Book is store the information in 
 Database. The address details like email id, address, mobile number, fax number and address etc. By using this project we can easily 
 manage the address details. Skills used - Php,MySQL,HTML Tags,CSS,Javascript<br>
 <b>Finding Favourite number: </b>Some number
@@ -66,7 +71,7 @@ untill the last row. participant will see the selected number on page.Skills use
 </div>
 <b> Albero system pvt ltd ( Duration February 2024 - May 2024 ):</b> Leanerd about java and python programming languages 
 <br>
- <b>CodSoft( Duration june 2024 - july 2024 ):</b>I Worked With Three Projects 1.Guess Number Game,2.Student Grade Calculator,3.Banking 
+ <b>CodoSoft( Duration june 2024 - july 2024 ):</b>I Worked With Three Projects 1.Guess Number Game,2.Student Grade Calculator,3.Banking 
 Transaction
 
 
