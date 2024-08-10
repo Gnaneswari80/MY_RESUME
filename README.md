@@ -25,8 +25,8 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
 <div class="second">
 <h2 color:pink>Certifications:</h2>
 </div>
-<b>JAVA:</b>Cleared The assessment for the skill java(basic) by <i>Hacker Rank</i><br>
-                 <a   href="https://www.hackerrank.com/certificates/AC276D8177AB ">credential Link</a>
+<b>JAVA:</b>Cleared The assessment for the skill java(basic) by <i>Hacker Rank</i>
+                 <a   href="https://www.hackerrank.com/certificates/AC276D8177AB ">credential Link</a><br>
   &nbsp &nbsp &nbsp &nbsp&nbsp Java Training Has Been successfully completed at <i>Besant Technologies</i><br>
  &nbsp &nbsp &nbsp &nbsp&nbsp Learn  all the  Basics of Java by  <i>Udemy</i><br>
   <a   href=" https://www.udemy.com/certificate/UC-413eda2e-887a-4abd-a992-aaa773b3ce77/">credential Link</a>
