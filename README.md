@@ -1,7 +1,7 @@
 # MY_RESUME
 <html>
 <head>
-<title>Resume</title>
+
 <link rel="stylesheet"  href="resume.css">
 
 </head>
