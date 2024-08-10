@@ -29,9 +29,9 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
   &nbsp &nbsp &nbsp &nbsp&nbsp Java Training Has Been successfully completed at <i>Besant Technologies</i><br>
  &nbsp &nbsp &nbsp &nbsp&nbsp Learn  all the  Basics of Java by  <i>Udemy</i><br>
 <b>C:</b>Learn the basics of C programming by <i>Eduonix</i><br>
-             <b>SQL:</b>  Cleared The assessment for the skill sql(basic)<br>
+             <b>SQL:</b>  Cleared The assessment for the skill sql(basic) <i>Hacker Rank</i><br>
 <b>WEB DEVElOPMENT:</b><br>
-           Cleared The assessment for the skill css(basic)<br>
+           Cleared The assessment for the skill css(basic)  by <i>Hacker Rank</i><br>
 Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
     &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp                
 <div class="second">
