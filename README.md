@@ -32,7 +32,7 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
   <a   href=" https://www.udemy.com/certificate/UC-413eda2e-887a-4abd-a992-aaa773b3ce77/">credential Link</a><br>
 <b>C:</b>Learn the basics of C programming by <i>Eduonix</i><br>
              <b>SQL:</b>  Cleared The assessment for the skill sql(basic)
- <a   href="https://www.hackerrank.com/certificates/E2BE14414217 ">credential Link</a><br>
+ <a   href="https://www.hackerrank.com/certificates/E2BE14414217/">credential Link</a><br>
 <b>WEB DEVElOPMENT:</b><br>
            Cleared The assessment for the skill css(basic)
  <a   href=" https://www.hackerrank.com/certificates/1f4c61632d0c">credential Link</a><br>
