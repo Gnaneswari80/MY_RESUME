@@ -29,7 +29,7 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
   &nbsp &nbsp &nbsp &nbsp&nbsp Java Training Has Been successfully completed at <i>Besant Technologies</i><br>
  &nbsp &nbsp &nbsp &nbsp&nbsp Learn  all the  Basics of Java by  <i>Udemy</i><br>
 <b>C:</b>Learn the basics of C programming by <i>Eduonix</i><br>
-             <b>SQL:</b>  Cleared The assessment for the skill sql(basic) <i>Hacker Rank</i><br>
+             <b>SQL:</b>  Cleared The assessment for the skill sql(basic) by <i>Hacker Rank</i><br>
 <b>WEB DEVElOPMENT:</b><br>
            Cleared The assessment for the skill css(basic)  by <i>Hacker Rank</i><br>
 Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
@@ -52,7 +52,7 @@ Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
 
 
 <u><h3>HTML,CSS,JAVASCRIPT/PHP,MYSQL</h3></u>
-<b>Online Address Book using </b> Online Address Book is store the information in 
+<b>Online Address Book  </b> Online Address Book is store the information in 
 Database. The address details like email id, address, mobile number, fax number and address etc. By using this project we can easily 
 manage the address details. Skills used - Php,MySQL,HTML Tags,CSS,Javascript<br>
 <b>Finding Favourite number: </b>Some number
@@ -66,7 +66,7 @@ untill the last row. participant will see the selected number on page.Skills use
 </div>
 <b> Albero system pvt ltd ( Duration February 2024 - May 2024 ):</b> Leanerd about java and python programming languages 
 <br>
- <b>CodoSoft( Duration june 2024 - july 2024 ):</b>I Worked With Three Projects 1.Guess Number Game,2.Student Grade Calculator,3.Banking 
+ <b>CodSoft( Duration june 2024 - july 2024 ):</b>I Worked With Three Projects 1.Guess Number Game,2.Student Grade Calculator,3.Banking 
 Transaction
 
 
