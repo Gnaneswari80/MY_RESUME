@@ -27,7 +27,7 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
 </div>
 <b>JAVA:</b>Cleared The assessment for the skill java(basic) by <i>Hacker Rank</i><br>
   &nbsp &nbsp &nbsp &nbsp&nbsp Java Training Has Been successfully completed at <i>Besant Technologies</i><br>
- &nbsp &nbsp &nbsp &nbsp&nbsp Basics of Java by <i>Coding Ninjas</i><br>
+ &nbsp &nbsp &nbsp &nbsp&nbsp Learn  all the  Basics of Java by  <i>Udemy</i><br>
 <b>C:</b>Learn the basics of C programming by <i>Eduonix</i><br>
              <b>SQL:</b>  Cleared The assessment for the skill sql(basic)<br>
 <b>WEB DEVElOPMENT:</b><br>
