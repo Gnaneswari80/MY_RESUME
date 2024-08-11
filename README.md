@@ -18,7 +18,7 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
   
 </div>
 <div class="second">
-<h2 style=color👱‍♂️>Education</h2>
+<h2 >Education</h2>
 </div>
 <b>Gradution:</b>BSC computer Science at SV University with Score 9.1(2021-2024)<br>
 <b>Intermediate:</b>MPC at Dr.MSMN Junior College Nagari with 908 marks(2019-2021)<br>
@@ -47,7 +47,7 @@ Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
 
  <u><h3>C</h3></u>
 <b>TIC - TAC - TOE GAME :</b> Tic - Tac - Toe game has 3X3 box.
- <p style=color:blue>Two players should play and each has their chances.Who put their mark sequentially (Continuos mark) is consider as winner./p><br>
+ <p style="color:blue">Two players should play and each has their chances.Who put their mark sequentially (Continuos mark) is consider as winner./p><br>
 <b>Snake and Ladder ::</b> The project is based on Snake
  Ladder game. Two players can play, roll dice. Who will reach the top of the box first (100)considered as winner 
 
