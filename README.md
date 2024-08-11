@@ -18,7 +18,7 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
   
 </div>
 <div class="second">
-<h2 style="color:red;">Education</h2>
+<h2 style="color:red !important;">Education</h2>
 </div>
 <b>Gradution:</b>BSC computer Science at SV University with Score 9.1(2021-2024)<br>
 <b>Intermediate:</b>MPC at Dr.MSMN Junior College Nagari with 908 marks(2019-2021)<br>
