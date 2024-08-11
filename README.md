@@ -47,7 +47,7 @@ Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
 
  <u><h3>C</h3></u>
 <b>TIC - TAC - TOE GAME :</b> Tic - Tac - Toe game has 3X3 box.
- <p style="color:blue">Two players should play and each has their chances.Who put their mark sequentially (Continuos mark) is consider as winner./p><br>
+ <p style="color:red;">Two players should play and each has their chances.Who put their mark sequentially (Continuos mark) is consider as winner./p><br>
 <b>Snake and Ladder ::</b> The project is based on Snake
  Ladder game. Two players can play, roll dice. Who will reach the top of the box first (100)considered as winner 
 
