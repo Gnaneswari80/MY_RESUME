@@ -18,13 +18,13 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
   
 </div>
 <div class="second">
-<h2 style="color:red">Education</h2>
+<h2 style="color:red;">Education</h2>
 </div>
 <b>Gradution:</b>BSC computer Science at SV University with Score 9.1(2021-2024)<br>
 <b>Intermediate:</b>MPC at Dr.MSMN Junior College Nagari with 908 marks(2019-2021)<br>
 <b>Class 10<sup>th</sup>:</b>SGN  ZP Girls high school Nagari  with Score 9.2(2018-2019)
 <div class="second">
-<h2 style=color:pink>Certifications:</h2>
+<h2 style="color:pink;">Certifications:</h2>
 </div>
 <b>JAVA:</b>Cleared The assessment for the skill java(basic) by <i>Hacker Rank</i>
                  <a   href="https://www.hackerrank.com/certificates/AC276D8177AB ">credential Link</a><br>
