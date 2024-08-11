@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<link rel="stylesheet"  href="resume.css">
+<link rel="stylesheet"  href="[resume.css](https://github.com/Gnaneswari80/MY_RESUME/blob/main/resume.css)">
 
 </head>
 <body>
