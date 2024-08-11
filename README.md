@@ -15,7 +15,7 @@ linked In Profile:<a href="https://www.linkedin.com/in/gnaneswari-tirumala-b51a9
 Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnaneswari80</a>
 <br>
 <p>       </p>
-   <img src="https://github.com/Gnaneswari80/MY_RESUME/blob/main/Payment.png" width=200 height=200>
+  
 </div>
 <div class="second">
 <h2 color:pink>Education</h2>
