@@ -1,8 +1,14 @@
 # MY_RESUME
+
+
+
+
+
+
 <html>
 <head>
 
-<link rel="stylesheet"  href="https://github.com/Gnaneswari80/MY_RESUME/blob/main/resume.css">
+<link rel="stylesheet"  href="resume.css">
 
 </head>
 <body>
@@ -15,16 +21,15 @@ linked In Profile:<a href="https://www.linkedin.com/in/gnaneswari-tirumala-b51a9
 Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnaneswari80</a>
 <br>
 <p>       </p>
-  
 </div>
 <div class="second">
-<h2 style="color:red!important;">Education</h2>
+<h2 color:pink>Education</h2>
 </div>
 <b>Gradution:</b>BSC computer Science at SV University with Score 9.1(2021-2024)<br>
 <b>Intermediate:</b>MPC at Dr.MSMN Junior College Nagari with 908 marks(2019-2021)<br>
 <b>Class 10<sup>th</sup>:</b>SGN  ZP Girls high school Nagari  with Score 9.2(2018-2019)
 <div class="second">
-<h2 style="color:pink;">Certifications:</h2>
+<h2 color:pink>Certifications:</h2>
 </div>
 <b>JAVA:</b>Cleared The assessment for the skill java(basic) by <i>Hacker Rank</i>
                  <a   href="https://www.hackerrank.com/certificates/AC276D8177AB ">credential Link</a><br>
@@ -33,7 +38,7 @@ Github Profile:<a href="http://Github.com/Gnaneswari80">http://Github.com/Gnanes
   <a   href="https://www.udemy.com/certificate/UC-413eda2e-887a-4abd-a992-aaa773b3ce77/">credential Link</a><br>
 <b>C:</b>Learn the basics of C programming by <i>Eduonix</i><br>
              <b>SQL:</b>  Cleared The assessment for the skill sql(basic)
- <a   href="https://www.hackerrank.com/certificates/E2BE14414217/">credential Link</a><br>
+ <a   href="https://www.hackerrank.com/certificates/E2BE14414217 ">credential Link</a><br>
 <b>WEB DEVElOPMENT:</b><br>
            Cleared The assessment for the skill css(basic)
  <a   href="https://www.hackerrank.com/certificates/1f4c61632d0c">credential Link</a><br>
@@ -46,13 +51,14 @@ Introduction to FrontEnd Development at <i>coursera</i> from <i>Meta</i>
 
 
  <u><h3>C</h3></u>
-<b>TIC - TAC - TOE GAME :</b> Tic - Tac - Toe game has 3X3 box.
- <p style="color:red;">Two players should play and each has their chances.Who put their mark sequentially (Continuos mark) is consider as winner./p><br>
+
 <b>Snake and Ladder ::</b> The project is based on Snake
  Ladder game. Two players can play, roll dice. Who will reach the top of the box first (100)considered as winner 
 
 <u><h3>JAVA</h3></u>
-<b>Displaying Calender:</b> Calendar project is used to display the calender.You should give
+<b>TIC - TAC - TOE GAME(Application) :</b> Tic - Tac - Toe game has 3X3 box.
+ Two players should play and each has their chances.Who put their mark sequentially (Continuos mark) is consider as winner.<br>
+<b>Displaying Calender(console Based):</b> Calendar project is used to display the calender.You should give
  the year of you want.After entering you will get calender of entering year.<br>
 <b>Bank Transaction:</b> Bank transaction like , Deposits, Withdrawals, Mini statement are exicuted <br>
 
@@ -98,3 +104,17 @@ C,Java,Sql,mysql,Data Structure,Html,Css,JavaScript,php,python
 English,Hindi,Telugu,Tamil
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
